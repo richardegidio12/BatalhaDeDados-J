@@ -47,6 +47,10 @@ Os gráficos também permitem comparar alunos selecionados com a média da turma
 
 Alguns mapas de calor e gráficos de barra também permitem mostrar quais os descritores mais (ou menos) acertados por alunos que possuem um bom (ou mal) desempenho em descritores pré-definidos pelo analista.
 
+![Heatmap descritores](./graficos_pylot/heatmap_acertos_d001_d011.png)
+
+![Bar Chart descritores.](./graficos_pylot/barchart_acertos_d001_d011_media.png)
+
 
 ## Sistemas concorrentes 
 Do ponto de vista de tratamento e análise de dados educacionais, duas soluções existentes inspiraram nossas propostas:
