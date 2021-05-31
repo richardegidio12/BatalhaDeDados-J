@@ -13,7 +13,7 @@ Após conversar com professores e profissionais da rede de educação do Ceará,
 - não entregar diretamente para o professor os microdados e resultados agregados das estatísticas de desempenho das suas turmas, com os principais resultados de saberes que geraram maiores erros ou dificuldades (aparentemente isso só acontece quando alguém da Secretaria compila os dados e leva a informação para as escolas)
 - não ofercer claramente para o professor uma ação sugerida sobre qual estratégia pedagótica ele deve adotar imediatamente após o professor aplicar suas aulas/atividades e coletar os dados de avaliação dos alunos da sua turma.
 
-<img src="https://drive.google.com/uc?export=view&id=1NaUMLb6JcFdzYEeuJdjtKzsU7NbHaIzS" alt="SISEDU." width="800px"/> 
+![SISEDU](https://drive.google.com/uc?export=view&id=1NaUMLb6JcFdzYEeuJdjtKzsU7NbHaIzS)
 
 Já na imagem abaixo, mapeamos as principais características descritas no trabalho estrangeiro do sistema SEAL.
 Algumas das soluções propostas no SEAL estão bastante alinhadas com a nossa visão das necessidades e potenciais do sistema ANA.
