@@ -5,6 +5,14 @@
 
 :blue_book: [Caderno Jupyter com o desenvolvimento da modelagem e tratamento dos dados](modelagem_datavis.ipynb)
 
+Todo processamento foi realizado em Python, usando cadernos Jupyter dentro do ambiente Sagemaker na plataforma da Amazon.
+Os dados estavam hospedados em um bucket no S3 da AWS.
+Portanto não é possível reproduzir o caderno sem criar a mesma configuração ou sem acesso às fontes originais.
+
+Apesar disso, todas as saídas das células estão visíveis no caderno deste repositório.
+Para facilitar, as imagens geradas estão na pasta [graficos_pylot](./graficos_pylot/)
+
+
 ## Sistemas concorrentes 
 Do ponto de vista de tratamento e análise de dados educacionais, duas soluções existentes inspiraram nossas propostas:
 - a plataforma [SISEDU (Sistema Online de Avaliação, Suporte e Acompanhamento Educacional)](https://sisedu.ced.ce.gov.br/), desenvolvida especificamente para o cenário das escolas estaduais do Ceará
