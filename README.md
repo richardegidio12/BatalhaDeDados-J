@@ -9,7 +9,7 @@ Todo processamento foi realizado em Python, usando cadernos Jupyter dentro do am
 Os dados estavam hospedados em um bucket no S3 da AWS.
 Portanto não é possível reproduzir o caderno sem criar a mesma configuração ou sem acesso às fontes originais.
 
-Apesar disso, todas as saídas das células estão visíveis no caderno deste repositório.
+Apesar disso, todas as saídas das células estão visíveis no caderno deste repositório.  
 Para facilitar, as imagens geradas estão na pasta [graficos_pylot](./graficos_pylot/)
 
 
