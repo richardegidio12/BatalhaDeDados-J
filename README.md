@@ -26,6 +26,9 @@ As variáveis contínuas utilizadas foram a proficiência atual, valor de pontua
 
 O modelo escolhido foi um Regressor Random Forest, pois além de apresentar melhor resultado que uma regressão linear e outros hiperparâmetros ajustáveis, também fornece uma relação clara de importância de features.
 
+![Previsão de proficiência (treino)](./graficos_pylot/reg_treino.png)
+
+
 ### Gráficos de Desempenho da Turma
 
 Utilizando gráficos polares, mostramos o desempenho médio da turma em relação aos descritores de habilidades das avaliações.  
