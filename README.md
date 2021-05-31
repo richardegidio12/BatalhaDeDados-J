@@ -28,11 +28,19 @@ O modelo escolhido foi um Regressor Random Forest, pois além de apresentar melh
 
 ![Previsão de proficiência (treino)](./graficos_pylot/reg_treino.png)
 
+![Previsão de proficiência (teste)](./graficos_pylot/reg_teste.png)
+
+![Feature Importance](./graficos_pylot/feature_importance.png)
+
 
 ### Gráficos de Desempenho da Turma
 
 Utilizando gráficos polares, mostramos o desempenho médio da turma em relação aos descritores de habilidades das avaliações.  
 Os gráficos também permitem comparar alunos selecionados com a média da turma.
+
+![Polar Chart Geometria.](./graficos_pylot/polar_chart_geometria.png)
+
+![Bar Chart Geometria.](./graficos_pylot/barchart_geometria.png)
 
 
 ### Correlação de acertos entre descritores
