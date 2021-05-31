@@ -1,6 +1,9 @@
 # BatalhaDeDados-J
 
 
+## Modelagem e Tratamento de Dados
+
+![Caderno Jupyter com o desenvolvimento da modelagem e tratamento dos dados](modelagem_datavis.ipynb)
 
 ## Sistemas concorrentes 
 Do ponto de vista de tratamento e análise de dados educacionais, duas soluções existentes inspiraram nossas propostas:
