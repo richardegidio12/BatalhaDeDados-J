@@ -10,7 +10,26 @@ Os dados estavam hospedados em um bucket no S3 da AWS.
 Portanto não é possível reproduzir o caderno sem criar a mesma configuração ou sem acesso às fontes originais.
 
 Apesar disso, todas as saídas das células estão visíveis no caderno deste repositório.  
-Para facilitar, as imagens geradas estão na pasta [graficos_pylot](./graficos_pylot/)
+Para facilitar, as imagens geradas estão na pasta [graficos_pylot](./graficos_pylot/).
+
+
+### Modelo de previsão de proficiência futura
+
+Realizamos uma modelagem de entrada/saída para previsão de proficiência.  
+
+Esse preprocessamento foi feito apenas para a base SPAECE 2014.  
+Isso porque ela servirá como informação de entrada para prever a proficiência dos mesmos alunos no final do ensino médio.  
+Os rótulos das saídas verdadeiras são os dados de proficiência da base SPAEC 2015.
+
+As variáveis categóricas utilizadas foram código do município, código do turno da turma e flag de turma multiseriada.  
+As variáveis contínuas utilizadas foram a proficiência atual, valor de pontuação no teste, taxa de acerto do teste e confiança da proficiência atual.
+
+O modelo escolhido foi um Regressor Random Forest, pois além de apresentar melhor resultado que uma regressão linear e outros hiperparâmetros ajustáveis, também fornece uma relação clara de importância de features.
+
+### Gráficos de Desempenho da Turma
+
+Utilizando gráficos polares, mostramos o desempenho médio da turma em relação aos descritores de habilidades das avaliações.  
+Os gráficos também permitem comparar alunos selecionados com a média da turma.
 
 
 ## Sistemas concorrentes 
