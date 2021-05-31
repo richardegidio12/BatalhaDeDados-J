@@ -32,6 +32,11 @@ Utilizando gráficos polares, mostramos o desempenho médio da turma em relaçã
 Os gráficos também permitem comparar alunos selecionados com a média da turma.
 
 
+### Correlação de acertos entre descritores
+
+Alguns mapas de calor e gráficos de barra também permitem mostrar quais os descritores mais (ou menos) acertados por alunos que possuem um bom (ou mal) desempenho em descritores pré-definidos pelo analista.
+
+
 ## Sistemas concorrentes 
 Do ponto de vista de tratamento e análise de dados educacionais, duas soluções existentes inspiraram nossas propostas:
 - a plataforma [SISEDU (Sistema Online de Avaliação, Suporte e Acompanhamento Educacional)](https://sisedu.ced.ce.gov.br/), desenvolvida especificamente para o cenário das escolas estaduais do Ceará
