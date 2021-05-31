@@ -4,8 +4,8 @@
 
 ## Sistemas concorrentes 
 Do ponto de vista de tratamento e análise de dados educacionais, duas soluções existentes inspiraram nossas propostas:
-- a plataforma SISEDU (Sistema Online de Avaliação, Suporte e Acompanhamento Educacional), desenvolvida especificamente para o cenário das escolas estaduais do Ceará
-- o trabalho acadêmico "Junhua Liu et al. Self-Evolving Adaptive Learning for Personalized Education. CSCW '20 Companion. Oct 2020", uma aplicação estrangeira, denominada SEAL, a qual também busca oferece um sistema de personalização das trajetórias de aprendizagem e de monitoramento inteligente de dados de desempenho dos alunos para professores escolas.
+- a plataforma [SISEDU (Sistema Online de Avaliação, Suporte e Acompanhamento Educacional)](https://sisedu.ced.ce.gov.br/), desenvolvida especificamente para o cenário das escolas estaduais do Ceará
+- o trabalho acadêmico ["Junhua Liu et al. Self-Evolving Adaptive Learning for Personalized Education. CSCW '20 Companion. Oct 2020"](https://dl.acm.org/doi/pdf/10.1145/3406865.3418326), uma aplicação estrangeira, denominada SEAL, a qual também busca oferece um sistema de personalização das trajetórias de aprendizagem e de monitoramento inteligente de dados de desempenho dos alunos para professores escolas.
 
 A imagem abaixo mostra um resumo dos nossos estudos preliminares das principais características do SISEDU.
 Após conversar com professores e profissionais da rede de educação do Ceará, constatamos que os principais problemas do SISEDU são:
